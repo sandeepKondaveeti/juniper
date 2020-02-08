@@ -1,7 +1,7 @@
 # Juniper Networks Solution
 
 ## Goal: 
-The goal of this exercise is to develop a fuzzy record matching program that takes records from “query” set and finds matching record in the “reference” set. 
+The goal of this exercise is to develop a fuzzy record matching program that takes records from **“query”** set and finds matching record in the **“reference”** set. 
 
 ## Data:
 In the attached excel file, there are two sheets:
@@ -12,7 +12,7 @@ In the attached excel file, there are two sheets:
 
 ## Dataset
 
-Dataset used in this project is the file "Data-for-Ex1-restaurant-nophone.xlsx"
+Dataset used in this project is the file **"Data-for-Ex1-restaurant-nophone.xlsx"**
 
 ## Install
 
@@ -41,4 +41,4 @@ To run this project you will need some software, like Anaconda, which provides s
 
 ## Conclusion
 
-Manually validated the outcome and I could see the solution is 100% Accurate.
+Manually validated the outcome and I could see the solution is **100% Accurate.**
