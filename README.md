@@ -1,9 +1,9 @@
 # Juniper Networks Solution
 
-# Goal: 
+## Goal: 
 The goal of this exercise is to develop a fuzzy record matching program that takes records from “query” set and finds matching record in the “reference” set. 
 
-#Data:
+## Data:
 In the attached excel file, there are two sheets:
 -	“reference” sheet  contains a list of restaurants, its address and cuisine (“reference” set) 
 -	“query” sheet contains again a list of restaurants, its address and cuisine, plus two additional columns (“query” set)
